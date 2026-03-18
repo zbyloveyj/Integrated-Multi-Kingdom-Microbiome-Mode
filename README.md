@@ -13,6 +13,7 @@ Unlike conventional studies focusing only on bacteria, we performed a **systemat
 * 🧬 Viruses
 
 We further integrated **functional genes, metabolic pathways, cognitive phenotypes, and machine learning models** to evaluate their clinical relevance and diagnostic potential.
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/2571858e-07c8-4d5a-aab6-60c07dd9e7e8" />
 
 ---
 
